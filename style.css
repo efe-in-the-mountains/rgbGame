@@ -5,8 +5,8 @@ body {
 }
 
 h1 {
-    background-color: steelblue;
-    color: white;
+    background-color: rgb(15, 228, 86);
+    color: rgb(100, 1, 1);
     text-align: center;
     line-height: 1.1;
     margin: 0;
@@ -35,7 +35,7 @@ h1 {
 }
 
 span {
-    color:white;
+    color:rgb(141, 0, 0);
 }
 
 #message {
@@ -47,7 +47,7 @@ span {
 }
 #stripe {
     background-color: white;
-    height: 5vh;
+    height: 2rem;
     text-align: center;
     color: black;
 }
